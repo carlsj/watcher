@@ -43,3 +43,9 @@
 .container .heroes .hero:nth-child(2) .image {
   background-image: url("./image/ruffs_02.png");
 }
+.container .heroes .hero:nth-child(3) .image {
+  background-image: url("./image/maisie_03.png");
+}
+.container .heroes .hero:nth-child(4) .image {
+  background-image: url("./image/grom_04.png");
+}
